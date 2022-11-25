@@ -1,0 +1,1 @@
+UPDATE japon.players set Posicion='No Disponible';
